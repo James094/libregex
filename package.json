@@ -1,0 +1,32 @@
+{
+  "name": "libregex",
+  "version": "1.0.0",
+  "description": "Globalized RegEx library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xseano/libregex.git"
+  },
+  "keywords": [
+    "regex",
+    "regexp",
+    "libregex",
+    "libex",
+    "relib"
+  ],
+  "author": "Sean Oberoi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xseano/libregex/issues"
+  },
+  "homepage": "https://github.com/xseano/libregex#readme",
+  "dependencies": {
+    "recoo": "^1.0.8"
+  }
+}
